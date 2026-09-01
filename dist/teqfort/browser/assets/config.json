@@ -1,0 +1,13 @@
+{
+  "apiUrl": "http://195.250.31.64:120/RestaurantAPI/api/",
+  "signalrUrl": "http://195.250.31.64:120/RestaurantAPI/kotHub",
+  "appName": "Restaurant POS",
+  "appDescription": "A Point of Sale system for restaurants.",
+  "appLogo": "assets/logo.png",
+  "version": "1.0.0"
+}
+
+
+
+
+
