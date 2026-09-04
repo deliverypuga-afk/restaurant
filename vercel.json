@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "http://195.250.31.64:120/RestaurantAPI/api/:path*"
+    }
+  ]
+}
